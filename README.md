@@ -5,4 +5,4 @@ You cand find a video demonstration, the presentation of the project, the target
 
 
 ## Demonstration of the application
-![Movie](output.gif)
+![Movie](./output.gif)
