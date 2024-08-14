@@ -5,4 +5,4 @@ You cand find a video demonstration, the presentation of the project, the target
 
 
 ## Demonstration of the application
-<video src='./output.mov' width="640" height="480" />
+<video src='./movie.mov' width="640" height="480" />
